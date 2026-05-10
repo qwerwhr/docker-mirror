@@ -1,0 +1,21 @@
+{
+  "features": {
+    "buildkit": true
+  },
+  "live-restore": true,
+  "registry-mirrors": [
+    "https://dockerhub.081011.xyz",
+    "https://docker.nju.edu.cn",
+    "https://docker.xuanyuan.me",
+    "https://docker.m.daocloud.io",
+    "https://dockerproxy.net",
+    "https://docker.1ms.run",
+    "https://lispy.org",
+    "https://dockerproxy.net",
+    "https://hub.1panel.dev",
+    "https://docker.fxxk.dedyn.io",
+    "https://mirror.houlang.cloud/dh",
+    "https://docker-0.unsee.tech",
+    "https://64f935164e63154e9f4df1fd3a8ca4c4.d.1ms.run"
+  ]
+}
